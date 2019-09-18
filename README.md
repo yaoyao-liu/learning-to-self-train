@@ -64,7 +64,7 @@ cd learning-to-self-train
 
 ## Running Experiments
 
-First, download processed images: miniImagenet[\[Download Page\]] or tieredImagenet[\[Download Page\]], move the unziped folder to `./data`. And then download the pre-trained models: miniImagenet[\[Download Page\]] or tieredImagenet[\[Download Page\]], move the unziped folder to `./pretrain_weights_dir`. 
+First, download processed images: miniImagenet or tieredImagenet, move the unziped folder to `./data`. And then download the pre-trained models: miniImagenet or tieredImagenet, move the unziped folder to `./pretrain_weights_dir`. 
 
 ### Training from Pre-Trained Models
 Run semi-supervised meta-train phase (e.g. 𝑚𝑖𝑛𝑖ImageNet, 1-shot) :
